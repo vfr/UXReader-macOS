@@ -1,0 +1,40 @@
+//
+//	Localizable.strings - en
+//	UXReader Framework v0.1
+//
+//	Created by Julius Oklamcak on 2017-01-01.
+//	Copyright © 2017-2019 Julius Oklamcak. All rights reserved.
+//
+
+// UXReaderToolbar text
+
+"ViewOptionsToolTip"				=	"View Options";
+
+"DisplayModeSinglePageStatic"		=	"Single Page";
+"DisplayModeSinglePageScroll"		=	"Single Page Continuous";
+"DisplayModeDoublePageStatic"		=	"Double Page";
+"DisplayModeDoublePageScroll"		=	"Double Page Continuous";
+
+//"MenuViewContent"					=	"Hide Sidebar";
+//"MenuViewOutline"					=	"Table of Contents";
+//"MenuViewThumbs"					=	"Page Thumbnails";
+
+"ZoomFitAspectToolTip"				=	"Zoom Fit";
+"ZoomDecrementToolTip"				=	"Zoom Out";
+"ZoomIncrementToolTip"				=	"Zoom In";
+
+"GotoSomePageToolTip"				=	"Go to Page";
+"PageDecrementToolTip"				=	"Previous Page";
+"PageIncrementToolTip"				=	"Next Page";
+
+"ToolbarRecentSearches"				=	"-";
+"ToolbarClearSearchList"			=	"Clear List";
+"SearchDocumentToolTip"				=	"Search Document";
+"FindDecrementToolTip"				=	"Find Previous";
+"FindIncrementToolTip"				=	"Find Next";
+
+"SearchNotFound"					=	"Not found";
+"SearchRangeCount"					=	"%lu of %lu";
+"SearchFoundCount"					=	"%lu";
+
+"PageOfPages"						=	"%lu of %lu";

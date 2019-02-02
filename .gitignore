@@ -1,0 +1,5 @@
+.DS_Store
+lib*.a
+project.xcworkspace
+xcuserdata
+Todo.txt
